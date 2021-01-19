@@ -5,7 +5,7 @@ My research interest mainly lies in Time series prediction, Learning Graph in Fi
 
 ## Publication
 
-- **Jiayu He**, Matloob Khushi, Nguyen H. Tran, Tongliang Liu. Robust Dual Recurrent Neural Networks for Financial Time Series Prediction. Proceedings of the 2019 SIAM International Conference on Data Mining, SDM 2021. [paper][code coming soon]
+- **Jiayu He**, Matloob Khushi, Nguyen H. Tran, Tongliang Liu. Robust Dual Recurrent Neural Networks for Financial Time Series Prediction. Proceedings of the 2019 SIAM International Conference on Data Mining, SDM 2021. [paper published soon][code coming soon]
 
 ## Supervisor
 
