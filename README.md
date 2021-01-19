@@ -1,7 +1,7 @@
 ## About me
 
-I am currently a MPhil student at School of IT, University of Sydney. 
-My research interest mainly lies in Time series prediction, Learning Graph in Financial Market.
+I am currently an MPhil research student at the School of IT, University of Sydney. 
+My research interest mainly lies in Time series prediction, Learning graphs in Financial Market.
 
 ## Publication
 
