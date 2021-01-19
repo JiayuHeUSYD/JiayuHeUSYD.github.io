@@ -1,37 +1,12 @@
-## test
+## About me
 
-You can use the [editor on GitHub](https://github.com/JiayuHeUSYD/JiayuHeUSYD.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently a MPhil student at School of IT, University of Sydney. 
+My research interest mainly lies in Time series prediction, Learning Graph in Financial Market.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publication
 
-### Markdown
+- **Jiayu He**, Matloob Khushi, Nguyen H. Tran, Tongliang Liu. Robust Dual Recurrent Neural Networks for Financial Time Series Prediction. Proceedings of the 2019 SIAM International Conference on Data Mining, SDM 2021. [paper][code coming soon]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Supervisor
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JiayuHeUSYD/JiayuHeUSYD.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Matloob Khushi](https://mkhushi.github.io/) (USYD), Nguyen Tran (USYD).
